@@ -1,6 +1,6 @@
 # Launch, Scale, Succeed: Mastering DigitalOcean in 4 Hours
 
-## Funko Showcase Workshop @ NDC London
+## Funko Showcase Workshop
 
 ### Presenters
 Jeff Blankenburg - [Twitter](https://x.com/jeffblankenburg) | [Bluesky](https://bsky.app/profile/jeffblankenburg.com)
